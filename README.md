@@ -2,14 +2,21 @@
   A powerful keylogger detection and prevention tool that identifies suspicious processes, network activity, and hidden malware in real-time.
 
 ## Features
-✅ Detects & Terminates Keyloggers (Automatic Process Kill)
-✅ Scans Files Against VirusTotal API (Checks for Malware)
-✅ Detects Keyboard Hooks (Stealth Keylogging Prevention)
-✅ Finds Suspicious Network Connections
-✅ Detects Fake Key Presses (Injected Keystroke Monitoring)
-✅ Scans for Hidden Log Files (Detect Keylogger Storage)
-✅ Detects Hidden Malware Processes
-✅ Sends Real-Time Alerts via Telegram
+✅ Detects & Terminates Keyloggers (Automatic Process Kill).
+
+✅ Scans Files Against VirusTotal API (Checks for Malware).
+
+✅ Detects Keyboard Hooks (Stealth Keylogging Prevention).
+
+✅ Finds Suspicious Network Connections.
+
+✅ Detects Fake Key Presses (Injected Keystroke Monitoring).
+
+✅ Scans for Hidden Log Files (Detect Keylogger Storage).
+
+✅ Detects Hidden Malware Processes.
+
+✅ Sends Real-Time Alerts via Telegram.
 
 
 
