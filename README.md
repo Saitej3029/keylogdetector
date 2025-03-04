@@ -143,13 +143,8 @@ python keylogger_detector.py
 
 ## 📌 Example Output
 
-   [🔍] Running Keylogger Detector....
-   [⚠️] Suspicious Process Found: keylogger.exe (PID: 3210).
-   [❌] Terminating keylogger.exe (PID: 3210).
-   🚨*Terminated Suspicious Process:* keylogger.exe (PID: 3210).
-   [⚠️] Keyboard Hook Detected!.
-   🚨*Keyboard Hook Detected!* Possible keylogger activity.
-   [✅] Scan Complete!.
+   <img width="409" alt="image" src="https://github.com/user-attachments/assets/932165dc-5b7f-4524-b0e8-f23312809bbf" />
+
 
 
 
